@@ -1,0 +1,27 @@
+.wrapper#wheelbarrow{
+    position: relative;
+}
+
+.img kitty-1{
+    position: absolute;
+    bottom: 25%;
+    left: 25%;
+}
+
+#kitty-2{
+    position: absolute;
+    bottom: 25%;
+    left: 25%;  
+}
+
+#basket{
+    position: absolute;
+    bottom: 25%;
+    right: 25%;    
+}
+
+alt kitty-5{
+    position: absolute;
+    bottom: 25%;
+    right: 25%;    
+}
